@@ -1,0 +1,25 @@
+{
+  "name": "t-rex-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayou/t-rex-runner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayou/t-rex-runner/issues"
+  },
+  "homepage": "https://github.com/wayou/t-rex-runner#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
